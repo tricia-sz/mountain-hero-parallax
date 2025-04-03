@@ -1,7 +1,7 @@
 # 🏔️ Mountain Hero Parallax ⛰️
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/tricia-sz/mountain_hero_parallax/refs/heads/main/.gitassets/capa.png" width="250" />
+<img src="https://github.com/tricia-sz/mountain-hero-parallax/blob/main/.gitassets/capa.png?raw=true" width="250" />
 
 
 <!-- <div data-badges>
