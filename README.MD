@@ -55,11 +55,10 @@ Mountain Hero Parallax, landingpage construído  em CSS e HTML, somente para vá
 
 ## 💎 Links úteis 💎
 
-- Repo no Git:
-- [The Movie DB](https://www.themoviedb.org)
+<!-- - [The Movie DB](https://www.themoviedb.org)
 - [Next.js](https://nextjs.org/docs)
 - [TypeScript](https://www.typescriptlang.org/docs)
-- [Shadcn](https://ui.shadcn.com)
+- [Shadcn](https://ui.shadcn.com) -->
 
 
 
